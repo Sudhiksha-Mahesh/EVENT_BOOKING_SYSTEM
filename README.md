@@ -125,7 +125,7 @@ npm test
 - Frontend: Can be deployed on **Vercel**, **Netlify**, or **GitHub Pages**.
 
 ## Contributors
-- **Your Name** - Developer
+- **Sudhiksha M K** - Developer
 
 
 This README provides a comprehensive guide to setting up and running the **Event Booking System** project.
